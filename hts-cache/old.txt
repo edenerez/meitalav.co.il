@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:12:56	190/190	---M--	301	error ('Moved%20Permanently')	text/html	date:Wed,%2030%20Mar%202016%2007:12:03%20GMT	http://meitalav.co.il/robots.txt		(from )
+10:12:57	190/190	---M--	301	error ('Moved%20Permanently')	text/html	date:Wed,%2030%20Mar%202016%2007:12:03%20GMT	http://meitalav.co.il/	C:/My%20Web%20Sites/MeitalAfterFix/index-2.html	(from )
